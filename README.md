@@ -13,3 +13,5 @@
 -   all folder for pages must be inside src/app folder
 -   layout.tsx(if present in a folder) must contain {children} to preview page.tsx files
 
+
+
